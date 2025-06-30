@@ -12,7 +12,7 @@ A React-based task management dashboard with different views for admins and empl
 
 ## Components Structure
 
-src/
+```src/
 ├── components/
 │ ├── Auth/
 │ │ └── Login.jsx
