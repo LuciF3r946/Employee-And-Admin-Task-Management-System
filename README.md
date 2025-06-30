@@ -2,8 +2,6 @@
 
 A React-based task management dashboard with different views for admins and employees.
 
-![Dashboard Preview](preview.png) *(Upload a preview image and name it preview.png)*
-
 ## Features
 
 - **Role-based access**: Admin and employee views
