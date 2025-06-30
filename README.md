@@ -30,6 +30,7 @@ A React-based task management dashboard with different views for admins and empl
 ├── utils/
 │ └── localstorage.js
 └── App.js
+```
 
 ## Data Structure
 
